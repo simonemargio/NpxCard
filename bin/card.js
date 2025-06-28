@@ -17,7 +17,7 @@ const data = {
   name: chalk.white("Simone Margio"),
   handle: chalk.cyan("♥"),
   labelWork: chalk.white.bold("       Hey:"),
-  work: chalk.white("Software engineer with a passion for design"),
+  work: chalk.white("Software engineering at Accenture Technology Solutions"),
 
   labelTwitter: chalk.white.bold("   Twitter:"),
   twitter: chalk.cyan("https://twitter.com/wownswos"),
@@ -28,11 +28,11 @@ const data = {
   labelGitHub: chalk.white.bold("    GitHub:"),
   github: chalk.cyan("https://github.com/simonemargio"),
 
-  labelblog: chalk.white.bold("      Blog:"),
-  blog: chalk.cyan("https://simonemargio.im/blog"),
+  labelblog: chalk.white.bold("       Log:"),
+  blog: chalk.cyan("https://simonemargio.dev/log"),
 
   labelWeb: chalk.white.bold("      Home:"),
-  web: chalk.cyan("https://simonemargio.im"),
+  web: chalk.cyan("https://simonemargio.dev"),
 
   labelCard: chalk.white.bold("      Card:"),
   npx: chalk.white("npx simonemargio"),
