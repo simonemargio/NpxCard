@@ -1,6 +1,6 @@
 {
   "name": "simonemargio",
-  "version": "3.0.0",
+  "version": "2.0.1",
   "description": "Simone Margio's business card",
   "main": "./bin/card.js",
   "bin": {
